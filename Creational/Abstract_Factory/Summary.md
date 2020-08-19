@@ -1,7 +1,7 @@
 # Abstract Factory
 
 This example was made on the idea of ordering computers from different providers, in this case: Apple and Dell.  
-The required parts of this computers are:
+The required parts of these computers are:
 
 - Case
 - Motherboard
